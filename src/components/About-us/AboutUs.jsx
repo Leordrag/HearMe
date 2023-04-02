@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
 import { Container, Row, Col } from "reactstrap";
-import aboutImg from "../../assests/images/about-us.png";
+import aboutImg from "../../assests/images/about-us.jpg";
 import CountUp from "react-countup";
 import "./about.css";
 
@@ -18,47 +18,45 @@ const AboutUs = () => {
 
           <Col lg="6" md="6">
             <div className="about__content">
-              <h2>About Us</h2>
+              <h2>Notre Equipe</h2>
               <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Excepturi cupiditate animi deserunt libero nesciunt corporis
-                explicabo nobis ex quo molestiae!
+              L'équipe de HearMe est composée d'une fondatrice passionnée et expérimentée, d'une experte en éducation, de développeurs web spécialistés en intelligence artificielle, d'un responsable du support client et marketing. Cette équipe multidisciplinaire permettra de combiner les compétences nécessaires pour concevoir, développer et promouvoir efficacement la plateforme d'apprentissage en ligne et l'intelligence artificielle de traduction du langage des signes malagasy.
               </p>
 
               <div className="about__counter">
                 <div className=" d-flex gap-5 align-items-center">
                   <div className="single__counter">
                     <span className="counter">
-                      <CountUp start={0} end={25} duration={2} suffix="K" />
+                      <CountUp start={0} end={30} duration={2} suffix="" />
                     </span>
 
-                    <p className="counter__title">Completed Projects</p>
+                    <p className="counter__title">Projets digitales réaliser</p>
                   </div>
 
                   <div className="single__counter">
                     <span className="counter">
-                      <CountUp start={0} end={12} duration={2} suffix="M" />
+                      <CountUp start={0} end={500000} duration={2} suffix="" />
                     </span>
 
-                    <p className="counter__title">Patient Around World</p>
+                    <p className="counter__title">Bénéficiaires présumé</p>
                   </div>
                 </div>
 
                 <div className=" d-flex gap-5 align-items-center">
                   <div className="single__counter">
                     <span className="counter">
-                      <CountUp start={0} end={95} duration={2} suffix="M" />
+                      <CountUp start={0} end={100} duration={2} suffix="M Ariary" />
                     </span>
 
-                    <p className="counter__title">Ideas Raised Funds</p>
+                    <p className="counter__title">Fond requis</p>
                   </div>
 
                   <div className="single__counter">
                     <span className="counter">
-                      <CountUp start={0} end={5} duration={2} suffix="K" />
+                      <CountUp start={0} end={500} duration={2} suffix="M Ariary" />
                     </span>
 
-                    <p className="counter__title">Categories Served</p>
+                    <p className="counter__title">Valeur du marcher</p>
                   </div>
                 </div>
               </div>

@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "reactstrap";
-import heroImg from "../../assests/images/hero-img1.png";
+import videoAcceuil from "../../assests/images/Video.mp4";
 import "./hero-section.css";
 
 const HeroSection = () => {
@@ -11,22 +11,20 @@ const HeroSection = () => {
           <Col lg="6" md="6">
             <div className="hero__content">
               <h2 className="mb-4 hero__title">
-                Anytime Anywhere <br /> Learn on your <br /> Suitable Schedule
+                HearMe <br /> La premiere plateforme d'apprentissage pour les sourds et/ou muets a Madagascar <br />
               </h2>
               <p className="mb-5">
-                Lorem ipsum dolor sit amet consectetur <br /> adipisicing elit.
-                Aut saepe voluptatum earum delectus <br /> deserunt id iste,
-                quas officiis et repellat!
+              HearMe est une startup qui vise à aider les personnes sourdes et muettes à acquérir des compétences dans des domaines spécifiques et à améliorer leur communication grâce à une plateforme d'apprentissage en ligne et à une intelligence artificielle de traduction du langage des signes.
               </p>
             </div>
             <div className="search">
-              <input type="text" placeholder="Search" />
-              <button className="btn">Search</button>
+              <input type="text" placeholder="Rechercher" />
+              <button className="btn">Rechercher</button>
             </div>
           </Col>
 
           <Col lg="6" md="6">
-            <img src={heroImg} alt="" className="w-100 hero__img" />
+            <video src={videoAcceuil} alt="" className="w-100 hero__img" width="600" height="300" controls="controls" autoplay="true"  />
           </Col>
         </Row>
       </Container>
