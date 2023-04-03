@@ -14,15 +14,13 @@ const ChooseUs = () => {
         <Row>
           <Col lg="6" md="6">
             <div className="choose__content">
-              <h2>Why Choose Us</h2>
+              <h2>Pourquoi nous choisir?</h2>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Incidunt mollitia nostrum harum eos praesentium odit a sed quod
-                aut fugit. Lorem ipsum dolor sit amet consectetur adipisicing
-                elit. Reprehenderit omnis, culpa eligendi inventore perspiciatis
-                minus. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Dolores cupiditate facilis provident quidem accusamus impedit
-                tenetur laboriosam debitis nisi eius!
+              HearMe est la première plateforme d'apprentissage en ligne destinée aux personnes sourdes et muettes malgaches. Grâce à l'utilisation de la langue des signes malagasy et à l'intelligence artificielle de traduction intégrée, la plateforme rend l'apprentissage accessible à tous.
+              Les cours proposés par HearMe sont dispensés par des formateurs qualifiés ayant une expérience pratique dans leur domaine. Les cours sont conçus pour être adaptés aux besoins et aux niveaux de compétence des apprenants.
+              HearMe offre la possibilité de suivre les cours en ligne à son propre rythme et à tout moment. Les apprenants peuvent également poser des questions et bénéficier d'un soutien personnalisé de la part des formateurs.
+              Les cours proposés par HearMe sont axés sur les domaines de l'agri-business, de la comptabilité et du développement web, qui sont des secteurs en plein essor à Madagascar. Les apprenants pourront ainsi développer des compétences pertinentes pour leur future carrière.
+              En choisissant HearMe, les clients contribuent à promouvoir l'inclusion sociale et l'égalité des chances pour les personnes sourdes et muettes malgaches.
               </p>
             </div>
           </Col>
