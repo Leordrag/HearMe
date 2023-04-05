@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/HearMe/static/css/main.6649e6e9.chunk.css",
-    "main.js": "/HearMe/static/js/main.f22c9acf.chunk.js",
-    "main.js.map": "/HearMe/static/js/main.f22c9acf.chunk.js.map",
+    "main.js": "/HearMe/static/js/main.73296302.chunk.js",
+    "main.js.map": "/HearMe/static/js/main.73296302.chunk.js.map",
     "runtime-main.js": "/HearMe/static/js/runtime-main.e0d06997.js",
     "runtime-main.js.map": "/HearMe/static/js/runtime-main.e0d06997.js.map",
     "static/css/2.51831f09.chunk.css": "/HearMe/static/css/2.51831f09.chunk.css",
@@ -15,15 +15,16 @@
     "static/media/Agri.0ca7cc21.jpg": "/HearMe/static/media/Agri.0ca7cc21.jpg",
     "static/media/Design.7ad3cf52.jpg": "/HearMe/static/media/Design.7ad3cf52.jpg",
     "static/media/Flamingo.26968d7c.png": "/HearMe/static/media/Flamingo.26968d7c.png",
+    "static/media/Page.84f91321.png": "/HearMe/static/media/Page.84f91321.png",
     "static/media/Redaction.95ffa418.jpeg": "/HearMe/static/media/Redaction.95ffa418.jpeg",
     "static/media/UNDP.5272ac0c.png": "/HearMe/static/media/UNDP.5272ac0c.png",
     "static/media/Video.ef938970.mp4": "/HearMe/static/media/Video.ef938970.mp4",
     "static/media/about-us.4815d03a.jpg": "/HearMe/static/media/about-us.4815d03a.jpg",
+    "static/media/favicon.e8e99691.ico": "/HearMe/static/media/favicon.e8e99691.ico",
     "static/media/kids-learning.fcd258b6.png": "/HearMe/static/media/kids-learning.fcd258b6.png",
     "static/media/remixicon.css": "/HearMe/static/media/remixicon.f2616f59.ttf",
     "static/media/seo.b323da63.png": "/HearMe/static/media/seo.b323da63.png",
     "static/media/slick-theme.css": "/HearMe/static/media/slick.c94f7671.ttf",
-    "static/media/testimonial01.ef527bf3.png": "/HearMe/static/media/testimonial01.ef527bf3.png",
     "static/media/ui-ux.0366b465.png": "/HearMe/static/media/ui-ux.0366b465.png",
     "static/media/web-development.91ce5338.png": "/HearMe/static/media/web-development.91ce5338.png",
     "static/media/why-choose-us.5ec7e3b2.png": "/HearMe/static/media/why-choose-us.5ec7e3b2.png"
@@ -33,6 +34,6 @@
     "static/css/2.51831f09.chunk.css",
     "static/js/2.ed5b4224.chunk.js",
     "static/css/main.6649e6e9.chunk.css",
-    "static/js/main.f22c9acf.chunk.js"
+    "static/js/main.73296302.chunk.js"
   ]
 }
