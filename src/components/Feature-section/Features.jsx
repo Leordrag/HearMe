@@ -4,20 +4,20 @@ import "./features.css";
 
 const FeatureData = [
   {
-    title: "Quick Learning",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestias, aperiam doloribus aut sapiente praesentium eos iste dicta amet itaque!",
+    title: "Accessibilité",
+    desc: "",
     icon: "ri-draft-line",
   },
 
   {
-    title: "All Time Support",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestias, aperiam doloribus aut sapiente praesentium eos iste dicta amet itaque!",
+    title: "Qualité",
+    desc: "",
     icon: "ri-discuss-line",
   },
 
   {
-    title: "Certification",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestias, aperiam doloribus aut sapiente praesentium eos iste dicta amet itaque!",
+    title: "Flexibilité",
+    desc: "",
     icon: "ri-contacts-book-line",
   },
 ];

@@ -3,15 +3,16 @@ import "./newsletter.css";
 import { Container, Row, Col } from "reactstrap";
 
 const Newsletter = () => {
+  
   return (
     <section>
       <Container className="newsletter">
         <Row>
           <Col lg="12" className="text-center">
-            <h2 className="mb-4">Subscribe Our Newsletter</h2>
+            <h2 className="mb-4">Inscrivez-vous pour connaître les dernières avances de HearMe</h2>
             <div className="subscribe">
-              <input type="text" placeholder="Email" />
-              <button className="btn">Subscribe</button>
+              <input type="text" placeholder="Email" id="EmailClient" onChange/>
+              <button className="btn">Inscription</button>
             </div>
           </Col>
         </Row>

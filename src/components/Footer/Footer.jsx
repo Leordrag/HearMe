@@ -2,6 +2,7 @@ import React from "react";
 import { Container, Row, Col, ListGroup, ListGroupItem } from "reactstrap";
 
 import "./footer.css";
+import logo from "../../assests/images/favicon.ico";
 
 const footerQuickLinks = [
   {
@@ -9,17 +10,17 @@ const footerQuickLinks = [
     url: "#",
   },
   {
-    display: "About US",
+    display: "Equipe",
     url: "#",
   },
 
   {
-    display: "Courses",
+    display: "Cours",
     url: "#",
   },
 
   {
-    display: "Blog",
+    display: "Pourquoi nous",
     url: "#",
   },
 ];
@@ -52,14 +53,14 @@ const Footer = () => {
         <Row>
           <Col lg="3" md="6" className="mb-4">
             <h2 className=" d-flex align-items-center gap-1">
-              <i class="ri-pantone-line"></i> Learners.
+              <img src={logo} class=""></img>
             </h2>
 
             <div className="follows">
-              <p className="mb-0">Follow us on social media</p>
+              <p className="mb-0">Suivez-nous sur les reseaux</p>
               <span>
                 {" "}
-                <a href="facebook.com">
+                <a href="https://www.facebook.com/FlamingoGirlsForChange">
                   <i class="ri-facebook-line"></i>
                 </a>
               </span>
@@ -112,11 +113,11 @@ const Footer = () => {
           </Col>
 
           <Col lg="3" md="6">
-            <h6 className="fw-bold">Get in Touch</h6>
+            <h6 className="fw-bold">Prenons contact!</h6>
 
-            <p>Address: Sylhet, Bangladesh</p>
-            <p> Phone: +88 0123456789 </p>
-            <p>Email: example@gmail.com</p>
+            <p>Address: Tour Redland, 3eme Etage, ODC</p>
+            <p> Phone: +261 34 61 484 22 </p>
+            <p>Email: flamingo.rado@gmail.com</p>
           </Col>
         </Row>
       </Container>

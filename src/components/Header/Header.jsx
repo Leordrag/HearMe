@@ -8,20 +8,20 @@ const navLinks = [
     url: "#",
   },
   {
-    display: "About",
+    display: "Equipe",
     url: "#",
   },
 
   {
-    display: "Courses",
+    display: "Cours",
     url: "#",
   },
   {
-    display: "Pages",
+    display: "Pourquoi nous?",
     url: "#",
   },
   {
-    display: "Blog",
+    display: "Contact",
     url: "#",
   },
 ];

@@ -12,14 +12,14 @@ import "./free-course.css";
 const freeCourseData = [
   {
     id: "01",
-    title: "Basic Web Development Course",
+    title: "Comptabilité",
     imgUrl: courseImg01,
     students: 5.3,
     rating: 1.7,
   },
   {
     id: "02",
-    title: "Coding for Junior Basic Course",
+    title: "Gestion de projet",
     imgUrl: courseImg02,
     students: 5.3,
     rating: 1.7,
@@ -27,7 +27,7 @@ const freeCourseData = [
 
   {
     id: "03",
-    title: "Search Engine Optimization - Basic",
+    title: "Marketing digital",
     imgUrl: courseImg03,
     students: 5.3,
     rating: 1.7,
@@ -35,7 +35,7 @@ const freeCourseData = [
 
   {
     id: "04",
-    title: "Basic UI/UX Design - Figma",
+    title: "Redaction web en Anglais",
     imgUrl: courseImg04,
     students: 5.3,
     rating: 1.7,
@@ -48,7 +48,7 @@ const FreeCourse = () => {
       <Container>
         <Row>
           <Col lg="12" className="text-center mb-5">
-            <h2 className="fw-bold">Our Free Courses</h2>
+            <h2 className="fw-bold">Nos futurs modules de formations</h2>
           </Col>
 
           {freeCourseData.map((item) => (
