@@ -12,8 +12,8 @@ const coursesData = [
     id: "01",
     title: "Agri business",
     lesson: 12,
-    students: 12.5,
-    rating: 5.9,
+    students: 2,
+    rating: 70000,
     imgUrl: courseImg1,
   },
 
@@ -21,8 +21,8 @@ const coursesData = [
     id: "02",
     title: "Graphics Design, Adobe XD, Canva",
     lesson: 12,
-    students: 12.5,
-    rating: 5.9,
+    students: 1,
+    rating: 70000,
     imgUrl: courseImg2,
   },
 
@@ -30,8 +30,8 @@ const coursesData = [
     id: "03",
     title: "Redaction web",
     lesson: 12,
-    students: 12.5,
-    rating: 5.9,
+    students: 5,
+    rating: 70000,
     imgUrl: courseImg3,
   },
 ];
