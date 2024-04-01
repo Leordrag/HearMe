@@ -35,7 +35,7 @@ const AboutUs = () => {
 
                   <div className="single__counter">
                     <span className="counter">
-                      <CountUp start={0} end={500000} duration={2} suffix="" />
+                      <CountUp start={0} end={30000} duration={2} suffix="" />
                     </span>
 
                     <p className="counter__title">Bénéficiaires présumé</p>
